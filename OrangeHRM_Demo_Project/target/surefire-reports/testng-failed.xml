@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Orange HRM Adding New Vacancy Test(failed)" verbose="0">
+    <classes>
+      <class name="Testcases.TC_AddNewVacancy">
+        <methods>
+          <include name="AddVacancy"/>
+          <include name="login"/>
+        </methods>
+      </class> <!-- Testcases.TC_AddNewVacancy -->
+    </classes>
+  </test> <!-- Orange HRM Adding New Vacancy Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
