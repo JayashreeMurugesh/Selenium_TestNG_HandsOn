@@ -42,3 +42,8 @@ Then type E:\Selenium with Java\Projects\OrangeHRM_Demo>mvn compile
 <img width="796" alt="image" src="https://github.com/user-attachments/assets/bae4f90c-6d69-4700-a5cd-0b2c9140ab9a">
 Then type E:\Selenium with Java\Projects\OrangeHRM_Demo>mvn test
 //This command will execute all the tests in the project
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/fbe3a3ef-bc19-4e76-8e9b-f8ab398b92ec">
+Output:
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/5386fcbb-d1b5-4129-823f-046e7e34b9df">
+
+
